@@ -1,0 +1,29 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(185, 183, 183);
+  /* margin-top: -10px; */
+  margin: -10px -10px;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 30px;
+  margin-right: 10px;
+}
+.nav-list li {
+  list-style: none;
+  font-size: 18px;
+}
+
+.nav-link {
+  text-decoration: dashed;
+  font-size: 18px;
+  color: black;
+}
+.logo {
+  margin: 0px 10px;
+  font-size: 24px;
+}

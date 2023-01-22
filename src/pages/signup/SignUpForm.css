@@ -1,0 +1,28 @@
+label {
+  width: auto;
+  font-size: 18px;
+  padding: 10px 20px;
+}
+input {
+  width: auto;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 10px 10px;
+}
+.form-group {
+  margin: 5px 0px;
+}
+.error-class
+{
+  text-align: center;
+  padding: 5px 5px;
+}
+.form-div {
+    margin: 50px 35%;
+    width: 30%;
+    height: auto;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }

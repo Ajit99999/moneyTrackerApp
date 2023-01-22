@@ -1,0 +1,17 @@
+.home-container
+{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+   
+}
+
+.form-container
+{
+    flex-grow: 8;
+}
+.list-container
+{
+    flex-grow: 4;
+}

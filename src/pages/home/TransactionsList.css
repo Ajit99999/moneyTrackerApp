@@ -1,0 +1,16 @@
+.trans-details
+{
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    font-size: 18px;
+    background-color: whitesmoke;
+    color: black;
+    text-align: left;
+    margin: 10px 0px;
+    padding: 10px 10px;
+    line-height: 35px;
+}
+.trans-details li{
+  list-style-type: none;
+}
