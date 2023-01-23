@@ -1,3 +1,10 @@
+This is finace tracker web applications where user can add & delete their transations.
+
+You can access the app here https://financetracking-233d9.firebaseapp.com.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
